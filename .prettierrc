@@ -1,0 +1,14 @@
+{
+    "printWidth": 120,
+    "trailingComma": "all",
+    "singleQuote": true,
+    "tabWidth": 4,
+    "overrides": [
+        {
+            "files": [".eslintrc.json", "package.json", "tsconfig.json", "tsconfig.*.json"],
+            "options": {
+                "tabWidth": 2
+            }
+        }
+    ]
+}
